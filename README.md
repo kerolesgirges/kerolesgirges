@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Keroles%20Girges%20Attala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Leader%20%7C%20Backend%20%26%20Embedded%20Systems&descAlignY=60&descSize=17" alt="Blue gradient banner with Keroles Girges Attala's name and engineering leadership tagline" />
+<img src="./assets/profile-header.svg" alt="Blue gradient banner with Keroles Girges Attala's name and engineering leadership tagline" />
 
 <a href="https://github.com/kerolesgirges"><img src="https://img.shields.io/badge/GitHub-kerolesgirges-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://www.linkedin.com/in/keroles-girges-717b61113/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
@@ -110,8 +110,3 @@ I am open to conversations about engineering leadership, technical education, em
 
 </div>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=100&section=footer" alt="Blue gradient footer" />
-
-</div>
