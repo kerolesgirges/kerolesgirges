@@ -83,12 +83,12 @@ I design and review firmware and connected systems across microcontrollers, sens
 
 </details>
 
-## GitHub at a glance
+## GitHub highlights
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kerolesgirges&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="Keroles's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerolesgirges&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Keroles's most used programming languages" />
+<a href="https://github.com/kerolesgirges?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20repositories-1d4ed8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Keroles's repositories" /></a>
+<a href="https://github.com/kerolesgirges/contentos-multi-agent-platform"><img src="https://img.shields.io/badge/Featured%20project-ContentOS-06b6d4?style=for-the-badge&logo=github&logoColor=white" alt="View the ContentOS project" /></a>
 
 </div>
 
