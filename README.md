@@ -3,7 +3,7 @@
 <img src="./assets/profile-header.svg" alt="Blue gradient banner with Keroles Girges Attala's name and engineering leadership tagline" />
 
 <a href="https://github.com/kerolesgirges"><img src="https://img.shields.io/badge/GitHub-kerolesgirges-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://www.linkedin.com/in/keroles-girges-717b61113/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+<a href="https://www.linkedin.com/in/keroles-girges/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 <a href="mailto:keroloesgirges@gmail.com"><img src="https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Keroles" /></a>
 
 </div>
@@ -344,7 +344,7 @@ I am based in **Cairo, Egypt**, open to strong local opportunities, remote roles
 
 I am always interested in conversations about agentic systems, AI-enabled operations, education technology, internal tools, product engineering, and difficult workflows worth redesigning.
 
-- **LinkedIn:** [linkedin.com/in/keroloes-girgis-717b61113](https://linkedin.com/in/keroloes-girgis-717b61113/)
+- **LinkedIn:** [linkedin.com/in/keroles-girges](https://linkedin.com/in/keroles-girges/)
 - **GitHub:** [github.com/kerolesgirges](https://github.com/kerolesgirges)
 - **Email:** [keroloesgirges@gmail.com](mailto:keroloesgirges@gmail.com)
 - **Location:** Cairo, Egypt
